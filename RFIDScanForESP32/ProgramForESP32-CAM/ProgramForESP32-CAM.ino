@@ -4,7 +4,7 @@
 
 // WiFi config
 const char* ssid = "nobitaoi";
-const char* password = "concacnedoraemon";
+const char* password = "nedoraemon";
 
 // Telegram
 String botToken = "8014020245:AAHmHYLlKFedWZZD7wtFlA64kmgDyMjlDZI";

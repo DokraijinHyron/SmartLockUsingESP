@@ -24,7 +24,7 @@ Adafruit_SH1106G display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // WiFi credentials
 const char* ssid = "doraemonoi";
-const char* password = "concacnenobita";
+const char* password = "nenobita";
 
 // Telegram Bot credentials
 #define BOTtoken "8014020245:AAHmHYLlKFedWZZD7wtFlA64kmgDyMjlDZI"
