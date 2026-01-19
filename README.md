@@ -47,10 +47,8 @@ The following components are typically required:
 Below is a simplified wiring schematic for the project hardware:
 
 <p align="center">
-  <img src="schematic.png" alt="Smart Lock Schematic">
+  <img src="Schematic.png" alt="Smart Lock Schematic">
 </p>
-
-*(Add your own schematic image in the repo as `schematic.png`)*
 
 ---
 
